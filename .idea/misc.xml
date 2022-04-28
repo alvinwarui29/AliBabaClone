@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/Warui/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/button.xml" value="0.1" />
         <entry key="..\:/Users/Warui/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/edtxt.xml" value="0.1" />
+        <entry key="..\:/Users/Warui/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/Warui/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Warui/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_register.xml" value="0.1" />
       </map>
     </option>
   </component>

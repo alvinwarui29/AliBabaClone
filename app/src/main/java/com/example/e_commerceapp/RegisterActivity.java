@@ -110,7 +110,7 @@ public class RegisterActivity extends AppCompatActivity {
                     }).addOnFailureListener(new OnFailureListener() {
                         @Override
                         public void onFailure(@NonNull Exception e) {
-                            Toast.makeText(RegisterActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
+                            Toast.makeText(RegisterActivity.this, e +"", Toast.LENGTH_SHORT).show();
                             pd.dismiss();
 
                         }
